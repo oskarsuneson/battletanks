@@ -4,6 +4,8 @@ A 3D browser game. Hide your five tank units on a 10 x 10 field, then take turns
 with your opponent firing at each other's field. The first to destroy every enemy
 unit wins.
 
+**Play it: https://oskarsuneson.github.io/battletanks/
+
 To play, open `index.html` through any web server, or publish the folder as a
 static site (for example with GitHub Pages).
 

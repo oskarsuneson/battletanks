@@ -150,7 +150,7 @@ against the fingerprint sent before the battle and replays every report.
 ## Git and publishing
 
 - The game is a static site. Publish the repository root with any static host,
-  for example GitHub Pages from `main` at `/`.
+  for example GitHub Pages from `main` at `https://oskarsuneson.github.io/battletanks/`.
 - With Pages set up that way, pushing to `main` publishes the game. Run
   `npm test` first.
 - Commit or push only when asked to.
